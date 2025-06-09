@@ -115,7 +115,7 @@
     "minimist": "^1.2.6",
     "postcss": "^8.4.14",
     "prettier": "^2.6.2",
-    "puppeteer": "^14.3.0",
+    "puppeteer": "^22.8.2",
     "rimraf": "^3.0.2",
     "rollup": "^2.79.1",
     "rollup-plugin-typescript2": "^0.32.0",
